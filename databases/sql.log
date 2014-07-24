@@ -1,0 +1,8 @@
+timestamp: 2014-07-24T12:46:06.899810
+CREATE TABLE stats(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    date CHAR(512),
+    open DOUBLE,
+    close DOUBLE
+);
+success!
